@@ -1,5 +1,5 @@
 package com.menthoven.arduinoandroid;
-
+changes1
 import android.bluetooth.BluetoothDevice;
 import android.bluetooth.BluetoothSocket;
 import android.os.Bundle;
