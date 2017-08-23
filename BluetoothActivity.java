@@ -1,5 +1,5 @@
 package com.menthoven.arduinoandroid;
-asdfghjk
+
 import android.app.AlarmManager;
 import android.app.PendingIntent;
 import android.app.TimePickerDialog;
@@ -28,7 +28,7 @@ import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.TimePicker;
 import android.widget.Toast;
-
+nfhjkdshfksdjf
 import com.menthoven.arduinoandroid.Recievers.AlarmReceiver;
 import com.menthoven.arduinoandroid.utils.AppUtils;
 import com.menthoven.arduinoandroid.utils.Constant;
