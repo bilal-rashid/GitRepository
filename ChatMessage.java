@@ -1,5 +1,5 @@
 package com.menthoven.arduinoandroid;
-
+new thing added
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
