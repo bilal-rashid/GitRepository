@@ -1,5 +1,6 @@
 package com.menthoven.arduinoandroid;
 fdshgfdsjghdsjjgfgdsj
+featureB
 import android.Manifest;
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
